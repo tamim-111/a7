@@ -1,7 +1,7 @@
 - 1. Project setup - Done ✔
 - 2. Project folder architecture - Done ✔
 - 3. Global theme and styling - Done ✔
-- 4. API setup and TypeScript types
+- 4. API setup and TypeScript types - Done ✔
 - 5. Better Auth setup
 - 6. Root layout and providers
 - 7. Navbar
