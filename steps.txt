@@ -1,0 +1,26 @@
+- 1. Project setup - Done ✔
+- 2. Project folder architecture - Done ✔
+- 3. Global theme and styling
+- 4. API setup and TypeScript types
+- 5. Better Auth setup
+- 6. Root layout and providers
+- 7. Navbar
+- 8. Price ticker / marquee
+- 9. Hero / banner
+- 10. Today's price risers
+- 11. Today's price fallers
+- 12. Product cards and all-products section
+- 13. Loading, error, and empty states
+- 14. Product detail page — `/product/[slug]`
+- 15. Category pages
+- 16. Product sorting
+- 17. Sign-in page — `/signin`
+- 18. Sign-up page — `/signup`
+- 19. User profile
+- 20. Update profile information
+- 21. Protected routes and auth redirects
+- 22. Footer
+- 23. Responsive design and 404 page
+- 24. README and Git commits (8+ meaningful commits)
+- 25. Final testing, build, and deployment
+
